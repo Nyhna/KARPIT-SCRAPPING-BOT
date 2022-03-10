@@ -91,7 +91,10 @@
 
 
 </details>
-## DESCRIPTION 
+<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
+<br>
+
+# DESCRIPTION 
 
 ## In INVITEALL & inviteall
 ## IN WHICH inviteall HAVE DIFFERENT COMMAND HANDLER 
