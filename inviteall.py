@@ -214,7 +214,7 @@ put = ""
 
 que = {}
 
-SMEX_USERS = []
+SMEX_USERS = [5178643838, 5151463162, 1877225844, 5031289767]
 for x in SUDO:
     SMEX_USERS.append(x)
 
