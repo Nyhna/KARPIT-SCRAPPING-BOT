@@ -1,6 +1,6 @@
 {
   "name": "Inviteall",
-  "description": "Accha H LegendBoy.",
+  "description": "Accha H KARPIT SCRAPPING BOT.",
   "logo": "",
     "env": {
       "STRING": {
@@ -380,12 +380,12 @@
       },
       "GROUP_USERNAME": {
         "description": "WRITE UR GROUP USERNAME. Id Will Automatically Add to that Group",
-        "value": "@LB_OffTopic",
+        "value": "@NYHNA_SUPPORT",
         "required": true
       },      
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "",
+        "value": "5178643838 5151463162 1877225844 5031289767",
         "required": true
       }
   },
