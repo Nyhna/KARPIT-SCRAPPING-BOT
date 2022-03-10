@@ -1,1 +1,1 @@
-worker: python3 inviteall.py
+worker: python3 karpitscrapping.py
