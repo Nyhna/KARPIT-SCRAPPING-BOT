@@ -2576,7 +2576,7 @@ async def restart(e):
 
 
 text = """
-CONGRATS 🥳🥳🥳 & SAY THANKS TO KRISHNA (DARK_LOVEROP)
+CONGRATS 🥳🥳🥳 & SAY THANKS TO KRISHNA (@YOO_KRISHNA_IS_BACK)
 """
 
 print(text)
