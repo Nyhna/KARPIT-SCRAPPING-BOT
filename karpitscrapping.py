@@ -268,7 +268,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 1 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 1 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 1 not Found")
         session_name = "startup"
@@ -300,7 +300,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 2 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 2 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 2 not Found")
         session_name = "startup"
@@ -333,7 +333,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 3 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 3 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 3 not Found")
         session_name = "startup"
@@ -374,7 +374,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 4 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 4 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 4 not Found")
         session_name = "startup"
@@ -415,7 +415,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 5 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 5 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 5 not Found")
         session_name = "startup"
@@ -456,7 +456,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 6 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 6 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 6 not Found")
         session_name = "startup"
@@ -497,7 +497,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 7 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 7 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 7 not Found")
         session_name = "startup"
@@ -538,7 +538,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 8 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 8 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 8 not Found")
         session_name = "startup"
@@ -571,7 +571,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 9 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 9 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 9 not Found")
         session_name = "startup"
@@ -604,7 +604,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 10 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 10 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 10 not Found")
         session_name = "startup"
@@ -637,7 +637,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 11 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 11 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 11 not Found")
         session_name = "startup"
@@ -669,7 +669,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 12 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 12 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 12 not Found")
         session_name = "startup"
@@ -702,7 +702,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 13 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 13 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 13 not Found")
         session_name = "startup"
@@ -735,7 +735,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 14 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 14 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 14 not Found")
         session_name = "startup"
@@ -768,7 +768,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 15 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 15 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 15 not Found")
         session_name = "startup"
@@ -801,7 +801,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 16 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 16 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 16 not Found")
         session_name = "startup"
@@ -834,7 +834,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 17 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 17 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 17 not Found")
         session_name = "startup"
@@ -867,7 +867,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 18 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 18 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 18 not Found")
         session_name = "startup"
@@ -900,7 +900,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 19 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 19 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 19 not Found")
         session_name = "startup"
@@ -933,7 +933,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 20 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 20 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 20 not Found")
         session_name = "startup"
@@ -966,7 +966,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 21 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 21 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 21 not Found")
         session_name = "startup"
@@ -999,7 +999,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 22 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 22 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 22 not Found")
         session_name = "startup"
@@ -1032,7 +1032,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 23 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 23 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 23 not Found")
         session_name = "startup"
@@ -1065,7 +1065,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 24 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 24 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 24 not Found")
         session_name = "startup"
@@ -1098,7 +1098,7 @@ async def start_yukki():
             SMEX_USERS.append(botid)
         except Exception as e:
             print(e)
-            print("Check String 25 & Replace It. Join @NYHNA_SUPPORT For Any Help")
+            print("Check String 25 & Replace It. Join @KARPIT_SUPPORT For Any Help")
     else:
         print("Session 25 not Found")
         session_name = "startup"
@@ -1202,7 +1202,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None)
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐉𝐎𝐢𝐍 𝐇𝐎𝐆𝐘𝐀 𝐕𝐀𝐈 AB BATA KISKO MARU PAHLE🔥")
+                await event.edit("𝓙𝓞𝓘𝓝 𝓣𝓞𝓗 𝓗𝓞 𝓖𝓨𝓐 𝓑𝓤𝓣  𝓜𝓔𝓚𝓞 𝓑𝓤𝓛𝓐𝓨𝓐 𝓚𝓘𝓢𝓢 𝓛𝓘𝓨𝓔 𝓜𝓔 𝓣𝓞𝓗 𝓢𝓒𝓡𝓐𝓟𝓘𝓘𝓝𝓖 𝓑𝓞𝓣 𝓗𝓤 𝓢𝓟𝓐𝓜 𝓑𝓞𝓣 𝓑𝓐𝓝𝓐𝓞 @KARPIT_SUPPORT 𝓘𝓓𝓗𝓐𝓡 𝓢𝓔🔥")
             except Exception as e:
                 await event.edit(str(e))
         else:
@@ -1244,7 +1244,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None)
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("𝐉𝐎𝐢𝐍 𝐇𝐎𝐆𝐘𝐀 𝐕𝐀𝐈 𝐀𝐁 𝐁𝐓𝐀 𝐊𝐈𝐒𝐊𝐈 𝐌𝐀𝐑𝐔😏🔥")
+                await event.edit("𝓙𝓞𝓘𝓝 𝓣𝓞𝓗 𝓗𝓞 𝓖𝓨𝓐 𝓑𝓤𝓣  𝓜𝓔𝓚𝓞 𝓑𝓤𝓛𝓐𝓨𝓐 𝓚𝓘𝓢𝓢 𝓛𝓘𝓨𝓔 𝓜𝓔 𝓣𝓞𝓗 𝓢𝓒𝓡𝓐𝓟𝓘𝓘𝓝𝓖 𝓑𝓞𝓣 𝓗𝓤 𝓢𝓟𝓐𝓜 𝓑𝓞𝓣 𝓑𝓐𝓝𝓐𝓞 @KARPIT_SUPPORT 𝓘𝓓𝓗𝓐𝓡 𝓢𝓔😏🔥")
             except Exception as e:
                 await event.edit(str(e))
         else:
@@ -1283,11 +1283,11 @@ async def _(e):
         if yukki:
             bc = yukki[0]
             bc = int(bc)
-            text = "BOT Leaving....."
+            text = "𝓙𝓐𝓐 𝓡𝓐𝓗𝓐 𝓐𝓟𝓤𝓝 𝓜𝓘𝓛𝓣𝓐 𝓣𝓤𝓜𝓚𝓞 @KARPIT_SUPPORT 𝓜𝓔"
             event = await e.reply(text, parse_mode=None, link_preview=None)
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("Succesfully Left")
+                await event.edit("𝓙𝓐𝓐 𝓡𝓐𝓗𝓐 𝓐𝓟𝓤𝓝 𝓜𝓘𝓛𝓣𝓐 𝓣𝓤𝓜𝓚𝓞 @KARPIT_SUPPORT 𝓜𝓔")
             except Exception as e:
                 await event.edit(str(e))
     else:
@@ -1322,11 +1322,11 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "Pong!"
+        text = "𝓐𝓡𝓔𝓔𝓔𝓔 𝓜𝓔 𝓩𝓘𝓝𝓓𝓐 𝓗𝓘 𝓗𝓤𝓤𝓤 𝓛𝓘𝓝𝓚 𝓓𝓞 𝓜𝓔 𝓐𝓓𝓓 𝓚𝓐𝓡 𝓓𝓔𝓣𝓐 𝓜𝓔𝓜𝓑𝓔𝓡𝓢 𝓗𝓤𝓗"
         event = await e.reply(text, parse_mode=None, link_preview=None)
         end = datetime.now()
         ms = (end - start).microseconds / 1000
-        await event.edit(f"PING PONG!\n`{ms}` 𝗺𝘀")@idk.on(events.NewMessage(incoming=True, pattern=r"\.limit"))
+        await event.edit(f"𝓐𝓡𝓔𝓔𝓔𝓔 𝓜𝓔 𝓩𝓘𝓝𝓓𝓐 𝓗𝓘 𝓗𝓤𝓤𝓤 𝓛𝓘𝓝𝓚 𝓓𝓞 𝓜𝓔 𝓐𝓓𝓓 𝓚𝓐𝓡 𝓓𝓔𝓣𝓐 𝓜𝓔𝓜𝓑𝓔𝓡𝓢 𝓗𝓤𝓗")@idk.on(events.NewMessage(incoming=True, pattern=r"\.limit"))
    
 
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.limit"))        
